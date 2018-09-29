@@ -1,3 +1,6 @@
+# Deprecated
+Moved to https://github.com/ImVexed/gitcdn
+
 # gorawgit
 A simple Go &amp; Docker project to give you raw git files with proper content types
 
